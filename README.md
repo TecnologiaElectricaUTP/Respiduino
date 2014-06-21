@@ -12,13 +12,13 @@ Remembering the "Code Just for fun!".
 
 ## Repositorio ##
 
-G
 git clone --mirror  https://github.com/heticor915/Respiduino.git
-# Make a bare mirrored clone of the repository
+Make a bare mirrored clone of the repository
 
-cd repository-to-mirror.git
-git remote set-url --push origin https://github.com/heticor915/Respiduino
-# Set the push location to your mirror
+$cd repository-to-mirror.git
+$git remote set-url --push origin https://github.com/heticor915/Respiduino
+
+Set the push location to your mirror
  
 ## Licencia  ##
 Not decided yet, for now Without License.
