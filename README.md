@@ -1,4 +1,4 @@
-##Respirometer  2014-1##
+##Respiduino  2014-1##
 *Universidad Tecnológica de Pereira 2013-2014,Facultad de Tecnologias,       Escuela de Tecnología Eléctrica*
 
 ----------
@@ -10,7 +10,7 @@ Remembering the "Code Just for fun!".
 > 
 
 
-## Repositorio ##
+## Repository ##
 
 git clone --mirror  https://github.com/heticor915/Respiduino.git
 Make a bare mirrored clone of the repository
@@ -20,7 +20,7 @@ $git remote set-url --push origin https://github.com/heticor915/Respiduino
 
 Set the push location to your mirror
  
-## Licencia  ##
+## License  ##
 Not decided yet, for now Without License.
 
 
